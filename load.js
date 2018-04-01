@@ -1,6 +1,6 @@
 tunnel = createBuffers(model_tunnel2);
 obstacle = createBuffers(model_square);
-
+//null
 img_1 = "2.jpg";
 
 texture_0 = loadTexture(GL, img_1);
