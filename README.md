@@ -1,7 +1,7 @@
 # Tunnel Rush
 Run through a tunnel past obstacles.
 ---
-<a href="artspie.github.io">Play the game here.</a>
+<a href="https://artspie.github.io">Play the game here.</a>
 
 ---
 ## Screenshots:
