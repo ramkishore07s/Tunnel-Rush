@@ -1,4 +1,4 @@
-# tunnel-rush
+# Tunnel Rush
 Run through a tunnel past obstacles.
 ---
 <a href="artspie.github.io">Play the game here.</a>
