@@ -3,7 +3,6 @@
 Run through a tunnel past obstacles.
 <a href="https://artspie.github.io">Play the game here.</a>
 
----
 ## Screenshots:
 <img src="https://github.com/ramkishore07s/Tunnel-Rush/blob/master/images/game.png?raw=true"></img>
 ---
